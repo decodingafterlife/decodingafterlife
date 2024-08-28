@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Engineering @PICT | 🤖 AIML Enthusiast | 📱 Flutter Developer | 🛡️ Cybersecurity Learner | 🏆 Dual Hackathon Winner | Always curious and eager to learn! 🚀
+👨‍💻 Computer Engineering @PICT | 🤖 AIML Enthusiast | 📱 Flutter Developer | 🛡️ Cybersecurity Learner | ✍🏻 Technical Blog Writer on Medium | 🏆 ×2 Hackathon Winner
 
 
 ## 🌐 Socials:
